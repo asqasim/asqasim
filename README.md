@@ -31,15 +31,59 @@ print(me.say_hi())
 ## 📊 Featured Projects
 
 
-### 🎮 Project 1: **Reinforcement Learning Game AI**
+# Project 1: **Reinforcement Learning Game AI**
 
-![Game AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3imKwBWP1kId-JZhJybU_K2U0EF76zTqwTmkdZGlxqoyfdzfVjFXFezoo1XQl6E_Fulc&usqp=CAU)
-🔧 **Tech:** PyTorch 🔥 | OpenAI Gym 🎮 | Stable-Baselines3 🤖
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3imKwBWP1kId-JZhJybU_K2U0EF76zTqwTmkdZGlxqoyfdzfVjFXFezoo1XQl6E_Fulc&usqp=CAU" alt="Game AI" width="300" style="border-radius: 8px;">
+</div>
 
-👾 Multi-agent RL | 🕹️ Strategy AI | ♻️ Transfer Learning
+<div align="center" style="margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <div style="width: 40px; height: 40px; border-radius: 50%; background: #EE4C2C; display: flex; align-items: center; justify-content: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="20" height="20">
+      </div>
+      <span>PyTorch</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <div style="width: 40px; height: 40px; border-radius: 50%; background: #0081A8; display: flex; align-items: center; justify-content: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/OpenAI_Logo.svg" alt="OpenAI Gym" width="20" height="20">
+      </div>
+      <span>OpenAI Gym</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <div style="width: 40px; height: 40px; border-radius: 50%; background: #2C3E50; display: flex; align-items: center; justify-content: center;">
+        <img src="https://stable-baselines3.readthedocs.io/en/master/_static/logo.png" alt="Stable-Baselines3" width="20" height="20">
+      </div>
+      <span>Stable-Baselines3</span>
+    </div>
+  </div>
+</div>
 
-[![View Code](https://img.shields.io/badge/View%20Code-2C3E50?style=for-the-badge\&logo=github)](https://github.com/asqasim/game-ai)
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-E50914?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/asqasim.datadev)
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+  <a href="https://github.com/asqasim/game-ai" style="text-decoration: none;">
+    <div style="background-color: #2C3E50; color: white; padding: 12px 24px; border-radius: 6px; font-weight: bold; display: inline-flex; align-items: center; gap: 8px;">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+      </svg>
+      View Code
+    </div>
+  </a>
+  <a href="https://youtube.com/asqasim.datadev" style="text-decoration: none;">
+    <div style="background-color: #E50914; color: white; padding: 12px 24px; border-radius: 6px; font-weight: bold; display: inline-flex; align-items: center; gap: 8px;">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+        <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 011.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 01-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 01-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 010 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 011.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 017.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"/>
+      </svg>
+      Demo Video
+    </div>
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px; flex-wrap: wrap;">
+  <span style="background-color: #f1f1f1; padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Multi-agent RL</span>
+  <span style="background-color: #f1f1f1; padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Strategy AI</span>
+  <span style="background-color: #f1f1f1; padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Transfer Learning</span>
+</div>
 
 
 ---
