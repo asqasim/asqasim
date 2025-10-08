@@ -2,7 +2,7 @@
 
 # 🚀 Data Science Portfolio by Asqasim
 
-![Data Science Banner](https://via.placeholder.com/1200x400/8E2DE2/FFFFFF?text=🚀+Data+Science+Portfolio)
+![Data Science Banner](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-2303518723.jpg)
 
 ---
 
@@ -30,68 +30,17 @@ print(me.say_hi())
 
 ## 📊 Featured Projects
 
-### 🎯 Project 1: **AI-Powered Customer Churn Prediction**
 
-![Churn Prediction](https://via.placeholder.com/800x400/FF416C/FFFFFF?text=Customer+Churn+Prediction)
+### 🎮 Project 1: **Reinforcement Learning Game AI**
 
-**🔧 Tech Stack:** Python 🐍 | Scikit-learn 📘 | XGBoost ⚡ | Flask 🌐 | Docker 🐳
-
-✅ 95% accuracy | 🌍 Real-time API | 📊 Dashboard | 🔄 Automated retraining
-
-[![View Code](https://img.shields.io/badge/View%20Code-0A66C2?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/asqasim/churn-prediction)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-28A745?style=for-the-badge\&logo=heroku\&logoColor=white)](https://asqasim-churn-demo.herokuapp.com)
-
----
-
-### 🏥 Project 2: **Medical Diagnosis Assistant**
-
-![Medical AI](https://via.placeholder.com/800x400/06D6A0/FFFFFF?text=Medical+Diagnosis+AI)
-
-**🔧 Tech Stack:** TensorFlow 🧠 | Keras 🔬 | OpenCV 👁️ | FastAPI 🚀
-
-🎯 98% Chest X-ray accuracy | COVID-19 detection | Skin disease classifier | HIPAA-ready
-
-[![View Code](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/asqasim/medical-ai)
-[![Research Paper](https://img.shields.io/badge/Research%20Paper-9B59B6?style=for-the-badge\&logo=academia\&logoColor=white)](https://arxiv.org/)
-
----
-
-### 🎮 Project 3: **Reinforcement Learning Game AI**
-
-![Game AI](https://via.placeholder.com/800x400/00B4D8/FFFFFF?text=Game+AI+with+RL)
-
+![Game AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3imKwBWP1kId-JZhJybU_K2U0EF76zTqwTmkdZGlxqoyfdzfVjFXFezoo1XQl6E_Fulc&usqp=CAU)
 🔧 **Tech:** PyTorch 🔥 | OpenAI Gym 🎮 | Stable-Baselines3 🤖
 
 👾 Multi-agent RL | 🕹️ Strategy AI | ♻️ Transfer Learning
 
 [![View Code](https://img.shields.io/badge/View%20Code-2C3E50?style=for-the-badge\&logo=github)](https://github.com/asqasim/game-ai)
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-E50914?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/asqasim)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-E50914?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/asqasim.datadev)
 
----
-
-### 📱 Project 4: **Social Media Sentiment Analysis**
-
-![Sentiment Analysis](https://via.placeholder.com/800x400/F39C12/FFFFFF?text=Sentiment+Analysis)
-
-🔧 **Stack:** BERT 🤗 | Transformers | Apache Spark ⚡ | AWS ☁️
-
-🌍 Real-time | 📈 Trend analysis | 🌐 Multi-language | 🛠️ Brand monitoring
-
-[![View Code](https://img.shields.io/badge/View%20Code-00599C?style=for-the-badge\&logo=github)](https://github.com/asqasim/sentiment-analysis)
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-FF5733?style=for-the-badge\&logo=heroku\&logoColor=white)](https://asqasim-sentiment.herokuapp.com)
-
----
-
-### 🛒 Project 5: **E-commerce Recommendation System**
-
-![Recommendation System](https://via.placeholder.com/800x400/F7DC6F/000000?text=E-commerce+AI)
-
-🔧 **Stack:** Collaborative Filtering | Neural Nets | Redis ⚡ | Django 🐍
-
-🛍 Personalized recs | 🔄 Real-time updates | 📊 A/B testing | 🚀 30% conversion boost
-
-[![View Code](https://img.shields.io/badge/View%20Code-1F618D?style=for-the-badge\&logo=github)](https://github.com/asqasim/recommendation-engine)
-[![Case Study](https://img.shields.io/badge/Case%20Study-FFC300?style=for-the-badge\&logo=medium\&logoColor=black)](https://medium.com/asqasim)
 
 ---
 
@@ -137,9 +86,9 @@ print(me.say_hi())
 
 <div align="center">  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://asqasim.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://asqasim.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&style=for-the-badge)](https://linkedin.com/in/asqasim)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter\&style=for-the-badge)](https://twitter.com/asqasim)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter\&style=for-the-badge)](https://twitter.com/asqasim_)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle\&style=for-the-badge)](https://kaggle.com/asqasim)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&style=for-the-badge)](https://medium.com/@asqasim)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&style=for-the-badge)](https://youtube.com/@asqasim)
