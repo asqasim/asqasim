@@ -10,11 +10,11 @@
 
 ## Table of Contents
 - [About Me](#-about-me)
-- [Goals](#-goals)
-- [Skills](#-skills)
+- [Goals](#goals)
+- [Skills](#skills)
 - [My GitHub Repositories](#-my-github-repositories)
-- [GitHub Stats](#-github-stats)
-- [Contact Me](#-contact-me)
+- [GitHub Stats](#github-stats)
+- [Contact Me](#contact-me)
 
 ---
 
