@@ -14,7 +14,7 @@
 - [Skills](#-skills)
 - [My GitHub Repositories](#-my-github-repositories)
 - [GitHub Stats](#-github-stats)
-- [Contact Me](#-'(O.O)')
+- [Contact Me](#-'(O_O)')
 
 ---
 
@@ -42,7 +42,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 - #### Programming
 - #### Data Analysis & Visualization 
@@ -83,7 +83,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 
 <div align="center">  
 
-# '(O.O)'
+## '(O_O)'
  
 **@asqasim EVERYWHERE**
 
