@@ -36,7 +36,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 
 - [x] Master Python and Data Science fundamentals  
 - [x] Complete projects in ML & Deep Learning  
-- [ ] Publish open-source repositories on GitHub  
+- [x] Publish open-source repositories on GitHub  
 - [ ] Build a personal robotics lab  
 - [ ] Launch my AI-driven tech startup  
 
@@ -118,16 +118,26 @@ Here’s my personal checklist as a Data Science learner and builder:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-round&logo=twitter&logoColor=white)](https://twitter.com/asqasim_)
 [![Dev.to](https://img.shields.io/badge/Dev.to-333333?style=flat-round&logo=devdotto&logoColor=white)](https://dev.to/asqasim)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat-round&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/asqasim)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-round&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ahmad-Qasim-5)
 
 </div>
 
----
-
 <div align="center">
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asqasim)
+**Hire Me**
 
+  <a href="mailto:qasim.datadev@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  <a href="https://www.freelancer.com/u/asqasim" target="_blank">
+    <img src="https://img.shields.io/badge/Guru-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771a" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
+  </a>
+<a href="https://www.fiverr.com/sohaib_qasim" target="_blank">
+    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
+  </a>
+  
 </div>
 
 ---
