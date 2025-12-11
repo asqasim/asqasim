@@ -98,7 +98,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 
 <div align="center">
 
-![Ahmad Sohaib Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asqasim&show_icons=true&theme=radical)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=asqasim&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asqasim&layout=compact&theme=radical)
 
 </div>
