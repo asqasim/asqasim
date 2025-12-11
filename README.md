@@ -1,5 +1,5 @@
-# Data Science Portfolio by Ahmad Sohaib Qasim
-See a Better portfolio [here 👉](asqasim.netlif.app)
+# Data Science Portfolio by Ahmad Sohaib Qasim   See a Better portfolio [here](https://asqasim.netlif.app)
+
 
 <div align="center"> 
 
