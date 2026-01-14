@@ -38,7 +38,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 
 - [x] Master Python and Data Science fundamentals  
 - [x] Complete projects in ML & Deep Learning  
-- [x] Publish open-source repositories on GitHub \[**IN PROGRESS**\]
+- [x] Publish open-source repositories on GitHub &emsp; 👈 \[**IN PROGRESS...**\]
 - [ ] Build a personal lab  
 - [ ] Launch my AI-driven tech startup  
 
