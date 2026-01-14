@@ -1,4 +1,4 @@
-# Data Science Portfolio by Ahmad Sohaib Qasim   See a Better portfolio [here](https://asqasim.netlif.app)
+# Data Science Portfolio by Ahmad Sohaib Qasim   See a Better portfolio [here](https://asqasim.netlify.app)
 
 
 <div align="center"> 
@@ -37,8 +37,8 @@ Here’s my personal checklist as a Data Science learner and builder:
 
 - [x] Master Python and Data Science fundamentals  
 - [x] Complete projects in ML & Deep Learning  
-- [x] Publish open-source repositories on GitHub  
-- [ ] Build a personal robotics lab  
+- [x] Publish open-source repositories on GitHub \[IN PROGRESS\]
+- [ ] Build a personal lab  
 - [ ] Launch my AI-driven tech startup  
 
 ---
