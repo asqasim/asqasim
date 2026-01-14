@@ -93,7 +93,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 | **Portfolio Website** | My personal portfolio built with HTML, CSS, and JS showcasing my work. | [View Repo](https://github.com/asqasim/portfolio) |
 
 ---
-
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -104,6 +104,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 </div>
 
 ---
+-->
 
 ## Contact Me
 
