@@ -15,7 +15,6 @@ See a Better portfolio [here](https://asqasim.netlify.app)
 - [Goals](#goals)
 - [Skills](#skills)
 - [My GitHub Repositories](#-my-github-repositories)
-- [GitHub Stats](#github-stats)
 - [Contact Me](#contact-me)
 
 ---
@@ -91,7 +90,7 @@ Here’s my personal checklist as a Data Science learner and builder:
 |----------|--------------|------|
 | **Online Code Editor** | A web-based coding environment for HTML, CSS, and JS with live preview. | [View Repo](https://github.com/asqasim/online-code-editor) |
 | **AI in Education Survey Analysis** | A data analysis project based on 150+ survey responses about AI in education. | [View Repo](https://github.com/asqasim/ai-in-education-survey) |
-| **Portfolio Website** | My personal portfolio built with HTML, CSS, and JS showcasing my work. | [View Repo](https://github.com/asqasim/portfolio) |
+| **Ecommerece Website** | A fullstack website with database, backend and creative user interface to manage your business. | [View Repo](https://github.com/asqasim/ecommerse-data-pipeline) |
 
 ---
 <!--
