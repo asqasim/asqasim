@@ -1,58 +1,11 @@
-# Data Science Portfolio by Ahmad Sohaib Qasim
-See a Better portfolio [here](https://asqasim.netlify.app)
-
-![viewed](https://komarev.com/ghpvc/?username=asqasim&color=blue)
-
-<div align="center"> 
-
-![Data Science Banner](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-2303518723.jpg) 
-
-</div>
-
+![viewed](https://komarev.com/ghpvc/?username=asqasim&color=blue) See a polished portfolio [here](https://asqasim.netlify.app)
 ---
-
-## Table of Contents
-- [About Me](#-about-me)
-- [Goals](#goals)
-- [Skills](#skills)
-- [My GitHub Repositories](#-my-github-repositories)
-- [Contact Me](#contact-me)
-
----
-
-## 👋 About Me
+### 👤whoami
 
 Hi! I'm **Ahmad Sohaib Qasim**, a student at **Punjab University College of Information Technology (PUCIT)**, currently pursuing my degree in the **Department of Data Science**.  
 
-I'm passionate about understanding how data shapes intelligent systems, and I aim to combine **AI, robotics, and data science** to build the future of automation.  
+I'm a developer who genuinely loves the open-source ecosystem—not just for the code, but for the people behind it. For me, building software is all about collaboration, sharing knowledge, and growing together.
 
-I love working on **machine learning models**, **data-driven projects**, and exploring the boundaries of **artificial intelligence**.
-
-> *"Code is the poetry that teaches machines to think."*
-
----
-
-## Goals
-
-Here’s my personal checklist as a Data Science learner and builder:
-
-- [x] Master Python and Data Science fundamentals  
-- [x] Complete projects in ML & Deep Learning  
-- [x] Publish open-source repositories on GitHub &emsp; 👈 \[**IN PROGRESS...**\]
-- [ ] Build a personal lab  
-- [ ] Launch my AI-driven tech startup  
-
----
-
-##  Skills
-
-- #### Programming
-- #### Data Analysis & Visualization 
-- #### Machine Learning & AI 
-
----
-
-<div align="center">
 
 ##  Technologies 
 
@@ -61,56 +14,28 @@ Here’s my personal checklist as a Data Science learner and builder:
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?logo=javascript&logoColor=black&style=for-the-badge) 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge) 
-![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white&style=for-the-badge) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge) 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge) 
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge) 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge) 
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge) 
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) 
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) 
-![LightGBM](https://img.shields.io/badge/LightGBM-0C3B2E?style=for-the-badge)
 
 </div>
-
----
-
-## 📂 My GitHub Repositories
-
-> Explore my key projects showcasing machine learning, web, and data science skills.
-
-| Project | Description | Link |
-|----------|--------------|------|
-| **Online Code Editor** | A web-based coding environment for HTML, CSS, and JS with live preview. | [View Repo](https://github.com/asqasim/online-code-editor) |
-| **AI in Education Survey Analysis** | A data analysis project based on 150+ survey responses about AI in education. | [View Repo](https://github.com/asqasim/ai-in-education-survey) |
-| **Ecommerece Website** | A fullstack website with database, backend and creative user interface to manage your business. | [View Repo](https://github.com/asqasim/ecommerse-data-pipeline) |
-
----
-<!--
-## GitHub Stats
-
-<div align="center">
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=asqasim&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asqasim&layout=compact&theme=radical)
-
-</div>
-
----
--->
-
-## Contact Me
 
 <div align="center">  
 
+  ---
+  
+  That’s enough of `whoami` - who are you? Hit me up on any of the platforms below (LinkedIn preferred!).
+
+  ---
+  
 **@asqasim EVERYWHERE**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C1C1C?style=flat-round&logo=About.me&logoColor=white)](https://asqasim.netlify.app)
@@ -125,24 +50,14 @@ Here’s my personal checklist as a Data Science learner and builder:
 </div>
 
 <div align="center">
-
-**Hire Me**
-
   <a href="mailto:qasim.datadev@gmail.com" mailto="mailto:qasim.datadev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
-  <a href="https://www.freelancer.com/u/asqasim" target="_blank">
-    <img src="https://img.shields.io/badge/Guru-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
   </a>
   <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771a" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
   </a>
 <a href="https://www.fiverr.com/sohaib_qasim" target="_blank">
     <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
-  </a>
-  
+  </a>  
 </div>
-
----
-
-> *“Dream big, start small, and build consistently  —  one line of code at a time.”*
