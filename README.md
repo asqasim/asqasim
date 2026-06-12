@@ -1,4 +1,4 @@
-![viewed](https://komarev.com/ghpvc/?username=asqasim&color=blue) See a polished portfolio [here](https://asqasim.netlify.app)
+![viewed](https://komarev.com/ghpvc/?username=asqasim&color=blue)
 ---
 ### 👤whoami
 
@@ -61,3 +61,7 @@ I'm a developer who genuinely loves the open-source ecosystem—not just for the
     <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
   </a>  
 </div>
+
+---
+
+ See a polished portfolio [here](https://asqasim.netlify.app)
