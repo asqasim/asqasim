@@ -1,6 +1,7 @@
 # Data Science Portfolio by Ahmad Sohaib Qasim
 See a Better portfolio [here](https://asqasim.netlify.app)
 
+![viewed](https://komarev.com/ghpvc/?username=asqasim&color=blue)
 
 <div align="center"> 
 
