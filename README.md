@@ -13,7 +13,6 @@ I'm a developer who genuinely loves the open-source ecosystem—not just for the
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?logo=javascript&logoColor=black&style=for-the-badge) 
-![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge) 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge) 
