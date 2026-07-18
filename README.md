@@ -69,3 +69,68 @@ I'm a developer who genuinely loves the open-source ecosystem—not just for the
 ---
 
  See a polished portfolio [here](https://asqasim.netlify.app)
+
+### Featured Projects
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="10" style="border-collapse: separate; border-spacing: 15px; border: none;">
+  <tr>
+      <td align="center" width="33%" valign="top" style="border: none;">
+        <a href="https://github.com/asqasim/hotel-booking-project">
+          <img src="https://placehold.co/400x250/000000/FFFFFF/png?text=Preview+GIF" width="100%" alt="Hotel Booking Model">
+        </a>
+        <br/><br/>
+        <b>Hotel Booking Cancellation</b><br/>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" height="18">
+        <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" height="18">
+      </td>
+      <td align="center" width="33%" valign="top" style="border: none;">
+        <a href="https://github.com/asqasim/your-repo-link">
+          <img src="https://placehold.co/400x250/000000/FFFFFF/png?text=Preview+GIF" width="100%" alt="Rooftop Digitizer">
+        </a>
+        <br/><br/>
+        <b>Rooftop Segmentation</b><br/>
+        <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" height="18">
+        <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" height="18">
+      </td>
+      <td align="center" width="33%" valign="top" style="border: none;">
+        <a href="https://github.com/asqasim/your-repo-link">
+          <img src="https://placehold.co/400x250/000000/FFFFFF/png?text=Preview+GIF" width="100%" alt="GIS Dashboard">
+        </a>
+        <br/><br/>
+        <b>GIS PySide6 Dashboard</b><br/>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" height="18">
+        <img src="https://img.shields.io/badge/Qt-000000?style=flat-square&logo=qt&logoColor=white" height="18">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%" valign="top" style="border: none;">
+        <a href="https://github.com/asqasim/your-repo-link">
+          <img src="https://placehold.co/400x250/000000/FFFFFF/png?text=Preview+GIF" width="100%" alt="Network Packet Analyzer">
+        </a>
+        <br/><br/>
+        <b>Network Packet Analyzer</b><br/>
+        <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white" height="18">
+        <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white" height="18">
+      </td>
+      <td align="center" width="33%" valign="top" style="border: none;">
+        <a href="https://github.com/asqasim/your-repo-link">
+          <img src="https://placehold.co/400x250/000000/FFFFFF/png?text=Preview+GIF" width="100%" alt="FastAPI Microservice">
+        </a>
+        <br/><br/>
+        <b>FastAPI Microservice</b><br/>
+        <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" height="18">
+        <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" height="18">
+      </td>
+      <td align="center" width="33%" valign="top" style="border: none;">
+        <a href="https://github.com/asqasim/your-repo-link">
+          <img src="https://placehold.co/400x250/000000/FFFFFF/png?text=Preview+GIF" width="100%" alt="Algorithm Visualizer">
+        </a>
+        <br/><br/>
+        <b>A* Path Visualizer</b><br/>
+        <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" height="18">
+        <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" height="18">
+      </td>
+    </tr>
+</table>
+</div>
