@@ -2,6 +2,8 @@
 ---
 ### 👤whoami
 
+# I am SIRAIKI
+
 Hi! I'm **Ahmad Sohaib Qasim**, a student at **Punjab University College of Information Technology (PUCIT)**, currently pursuing my degree in the **Department of Data Science**.  
 
 I'm a developer who genuinely loves the open-source ecosystem—not just for the code, but for the people behind it. For me, building software is all about collaboration, sharing knowledge, and growing together.
