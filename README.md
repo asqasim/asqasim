@@ -1,8 +1,5 @@
-<div align="center">
-
 ![viewed](https://komarev.com/ghpvc/?username=asqasim&color=0D1117&style=flat-square)
 
-</div>
 
 ---
 
