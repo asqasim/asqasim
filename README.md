@@ -33,7 +33,7 @@ I'm a developer who genuinely loves the open-source ecosystem — not just for t
 ![Docker](https://img.shields.io/badge/Docker-24425E?logo=docker&logoColor=FFFFFF&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-24425E?logo=kubernetes&logoColor=FFFFFF&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-24425E?logo=scikit-learn&logoColor=FFFFFF&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-24425E?logo=tensorflow&logoColor=FFFFFF&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?logo=tensorflow&logoColor=FFFFFF&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?logo=pytorch&logoColor=FFFFFF&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?logo=opencv&logoColor=FFFFFF&style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?logo=huggingface&logoColor=FFFFFF&style=for-the-badge)
