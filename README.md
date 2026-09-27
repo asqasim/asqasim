@@ -52,7 +52,7 @@ That's enough of `whoami` — who are you? Hit me up on any of the platforms bel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24425E?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/asqasim)
 [![Kaggle](https://img.shields.io/badge/Kaggle-24425E?style=flat-square&logo=kaggle&logoColor=FFFFFF)](https://kaggle.com/asqasim)
 [![Medium](https://img.shields.io/badge/Medium-24425E?style=flat-square&logo=medium&logoColor=FFFFFF)](https://medium.com/@asqasim)
-[![YouTube](https://img.shields.io/badge/YouTube-24425E?style=flat-square&logo=youtube&logoColor=FFFFFF)](https://youtube.com/@asqasim)
+[![YouTube](https://img.shields.io/badge/YouTube-24425E?style=flat-square&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCv7N36iBtqh30aeUpxZfEiA)
 [![Twitter](https://img.shields.io/badge/Twitter-24425E?style=flat-square&logo=twitter&logoColor=FFFFFF)](https://twitter.com/asqasim_)
 [![Dev.to](https://img.shields.io/badge/Dev.to-24425E?style=flat-square&logo=devdotto&logoColor=FFFFFF)](https://dev.to/asqasim)
 [![Discord](https://img.shields.io/badge/Discord-24425E?style=flat-square&logo=discord&logoColor=FFFFFF)](https://discord.com/users/asqasim)
